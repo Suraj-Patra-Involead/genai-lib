@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: genai-lib
+Version: 0.1.0
+Summary: A lightweight Generative AI library with LLM and prompting tools
+Home-page: https://github.com/yourusername/genai-lib
+Author: Suraj Patra
+Author-email: Suraj Patra <suraj.patra@involead.com>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.20.0
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-python
